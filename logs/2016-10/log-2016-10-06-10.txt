@@ -1,0 +1,7 @@
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.entity.PassengerTaxi - New Passenger Taxi NP111 Created withtaxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.entity.MiniBus - New MiniBus KI896 Created withminiBusPassengerNumber=20, miniBusLuggageCapacity=300
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.creator.AutoFactory - Wrong input line: kkkk kkkk kkkk'
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.creator.AutoFactory - Wrong input line: OP879 4.0 5 true
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-06 10:42:06 [main] INFO  by.gicheva.taxipark.entity.PassengerTaxi - New Passenger Taxi NP111 Created withtaxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true

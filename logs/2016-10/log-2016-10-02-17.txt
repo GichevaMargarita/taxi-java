@@ -1,0 +1,2 @@
+2016-10-02 17:09:48 [main] INFO  main.Main - Main started.
+2016-10-02 17:34:09 [main] INFO  entity.PassengerTaxi - New Taxi Created taxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true

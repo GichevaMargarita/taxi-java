@@ -1,0 +1,48 @@
+убрать jar
+
+аннотация 4 путь 3
+внимательно пути!
+org.junit
+
+Assert.assertEquals
+
+в тесте пишем логи????
+
+
+
+
+
+____________________________________________
+//for if не в main
+//только логи и эксепшены
+
+//sout delete
+
+//LOGGER.LOG(Level.error)
+
+//packages
+
+//CompareByFuel
+
+//FuelComparator
+
+//RuntimeExcer LOG.FATAl
+
+// ssotv Builder and sootv Factory
+
+//check modificators of dostyp
+
+///REPORT
+
+//LOG INTO ALL CATCH
+
+
+ //           System.out.println(tp.toString());
+//            ArrayList <Auto> auto = new ArrayList<>();
+//            for (String line : lines) {
+//
+//            }
+//            ParseAuto parseAuto = new ParseAuto();
+//            CargoTaxi a = parseAuto.parseCargoTaxi(lines.get(3));
+//            PassengerTaxi b = parseAuto.parsePassengerTaxi(lines.get(1));
+//            MiniBus c = parseAuto.parseMiniBus(lines.get(4));

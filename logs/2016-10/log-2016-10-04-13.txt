@@ -1,0 +1,14 @@
+2016-10-04 13:07:41 [main] INFO  entity.CargoTaxi - New Cargo Taxi KI896 Created with cargoTaxiCapacity=20, cargoTaxiMaxLength=300.0, cargoTaxiMaxHeight=300.0
+2016-10-04 13:15:24 [main] INFO  entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-04 13:16:28 [main] INFO  entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-04 13:22:46 [main] INFO  entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-04 13:22:46 [main] INFO  entity.PassengerTaxi - New Passenger Taxi NP111 Created withtaxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true
+2016-10-04 13:26:44 [main] INFO  entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-04 13:26:44 [main] INFO  entity.PassengerTaxi - New Passenger Taxi NP111 Created withtaxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true
+2016-10-04 13:26:44 [main] INFO  entity.MiniBus - New MiniBus KI896 Created withminiBusPassengerNumber=20, miniBusLuggageCapacity=300
+2016-10-04 13:27:38 [main] INFO  entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-04 13:27:38 [main] INFO  entity.PassengerTaxi - New Passenger Taxi NP111 Created withtaxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true
+2016-10-04 13:27:38 [main] INFO  entity.MiniBus - New MiniBus KI896 Created withminiBusPassengerNumber=20, miniBusLuggageCapacity=300
+2016-10-04 13:28:15 [main] INFO  entity.CargoTaxi - New Cargo Taxi OP789 Created with cargoTaxiCapacity=5000, cargoTaxiMaxLength=4.0, cargoTaxiMaxHeight=2.5
+2016-10-04 13:28:15 [main] INFO  entity.PassengerTaxi - New Passenger Taxi NP111 Created withtaxiPassengerNumber=3, taxiHasBabyChair=false, taxiHasTerminal=true
+2016-10-04 13:28:15 [main] INFO  entity.MiniBus - New MiniBus KI896 Created withminiBusPassengerNumber=20, miniBusLuggageCapacity=300
